@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="350" title="Bit Checker Logo" alt="Bit Checker Logo">
+  <img src="image/logo.png" width="350" title="Bit Checker Logo" alt="Bit Checker Logo">
 </p>
 
 <h1 align="center">🛡️ Bit Checker v2.0</h1>
@@ -37,3 +37,4 @@
 1. **Установка зависимостей:**
    ```bash
    pip install textual aiohttp
+
