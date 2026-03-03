@@ -1,0 +1,51 @@
+#app-grid {
+    padding: 1 2; 
+    layout: vertical;
+}
+
+#input-area {
+    height: auto;
+    margin-bottom: 1;
+}
+
+Input {
+    width: 100%;
+    border: tall $accent;
+}
+
+Button {
+    width: 100%;
+    background: $primary;
+}
+
+#output-window {
+    border: double $primary;
+    background: $surface;
+    height: 1fr; 
+}
+
+#settings {
+    width: 20%;
+}
+
+#CompliteButton {
+    width: 30%; 
+    margin-top: 1;   
+}
+
+#Back {
+    width: 10%; 
+    margin-top: 1;      
+}
+
+#NewTimeOut {
+    margin-top: 1;
+}
+
+#NewSite {
+    margin-top: 1;
+}
+
+#Potok {
+    margin-top: 1;
+}
